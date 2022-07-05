@@ -1,0 +1,16 @@
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\bin\Debug\net5.0\ceesharp.exe
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\bin\Debug\net5.0\ceesharp.deps.json
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\bin\Debug\net5.0\ceesharp.runtimeconfig.json
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\bin\Debug\net5.0\ceesharp.runtimeconfig.dev.json
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\bin\Debug\net5.0\ceesharp.dll
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\bin\Debug\net5.0\ceesharp.pdb
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\obj\Debug\net5.0\ceesharp.csproj.AssemblyReference.cache
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\obj\Debug\net5.0\ceesharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\obj\Debug\net5.0\ceesharp.AssemblyInfoInputs.cache
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\obj\Debug\net5.0\ceesharp.AssemblyInfo.cs
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\obj\Debug\net5.0\ceesharp.csproj.CoreCompileInputs.cache
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\obj\Debug\net5.0\ceesharp.dll
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\obj\Debug\net5.0\refint\ceesharp.dll
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\obj\Debug\net5.0\ceesharp.pdb
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\obj\Debug\net5.0\ceesharp.genruntimeconfig.cache
+C:\Users\tcoff\source\repos\tcoffmn\ceesharp\obj\Debug\net5.0\ref\ceesharp.dll

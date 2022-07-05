@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZmKJAfbcb+OeQ7olIz4FppQtt96375KSSEtW0jEGg/CHJomKsrXUA2sY9/ciy4BJTmJ8Cy5y7OPin8oWjEH8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tcoff\\source\\repos\\tcoffmn\\ceesharp\\ceesharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tcoff\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\tcoff\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\tcoff\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\tcoff\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
